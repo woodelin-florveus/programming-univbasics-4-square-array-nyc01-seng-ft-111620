@@ -1,5 +1,4 @@
 def square_array(array)
-  new_arr
   counter = 0
   new_arr = []
   while counter < array.length
@@ -13,3 +12,4 @@ end
 # array.each do |nums|
 #   new_arr << nums ** 2
 # end
+#   new_arr
