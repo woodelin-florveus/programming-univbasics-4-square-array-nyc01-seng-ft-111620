@@ -1,7 +1,4 @@
 def square_array(array)
-  # squares each element
-  # returns a new array of these squared numbers
-
   counter = 0
   new_arr = []
   while counter < array.length
